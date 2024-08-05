@@ -1,0 +1,4 @@
+{
+  "alias": "wbft",
+  "dependencies": ["waibu-mpa"]
+}
