@@ -13,6 +13,8 @@ const mapping = {
   arrowsOut: 'maximize'
 }
 
+const inlineScript = 'feather.replace();'
+
 function handler ({ params }) {
   const attr = params.attr
   attr['data-feather'] = mapping[attr.name]
@@ -25,6 +27,7 @@ function iconset (ctx) {
     scripts: [
       'waibuFeather.virtual:/feather/feather.min.js'
     ],
+    inlineScript,
     mapping,
     handler
   }
