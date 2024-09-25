@@ -1,6 +1,6 @@
 # waibu-feather
 
-Plugin name: **waibuFeather**, alias: **wbft**
+Plugin name: **waibuFeather**, alias: **wft**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-feather) ![NPM Version](https://img.shields.io/npm/v/waibu-feather)
 
