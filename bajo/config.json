@@ -1,4 +1,3 @@
 {
-  "alias": "wft",
   "dependencies": ["waibu-mpa"]
 }
